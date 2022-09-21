@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="w-full py-16">
       <div className="container mx-auto px-4 grid gap-8 text-white md:grid-cols-3 md:px-12">
         <div className="flex flex-col gap-4">
-          <h1 className="w-full text-3xl font-bold text-[#00df9a]">REACT.</h1>
+          <h1 className="w-full text-3xl font-bold text-[#00df9a]">DATA.B</h1>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi adipisci, in earum soluta et quis odio ipsum inventore vel nesciunt.</p>
           <div className='flex gap-6'>
             <FaFacebookSquare size={30} />
